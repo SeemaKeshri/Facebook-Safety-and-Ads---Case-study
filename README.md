@@ -1,1 +1,2 @@
 # Facebook-Safety-and-Ads---Case-study
+This case study proposes AI-driven enhancements to improve user safety and ad relevance on Facebook. It focuses on detecting suspicious behavior in chats, increasing trust in Marketplace through an AI-based Trust Score, improving transparency with a “Why am I seeing this ad?” explanation, and providing clearer feedback during the report process. These solutions aim to reduce scams, increase trust, and deliver more relevant ads while maintaining user privacy and minimizing false positives
